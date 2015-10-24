@@ -2,6 +2,7 @@ name: testgrid
 favicon: null
 layout_spectrum: 0.9561891078483313
 typography_spectrum: 0.2769868206232786
+title: A test
 cta:
   domain: null
   bucket: null
