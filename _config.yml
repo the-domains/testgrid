@@ -1,0 +1,23 @@
+name: testgrid
+favicon: null
+layout_spectrum: 0.9561891078483313
+typography_spectrum: 0.2769868206232786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.18163962638936937
+  lightness: 0.08111433265730739
+  saturation: 0.2326918973121792
+  rhythmicContrast: 0.04081013984978199
+purpose: []
